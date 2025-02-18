@@ -37,7 +37,7 @@
     </html>
     ```
     - Откройте **index.html** в браузере и посмотрите, как выполняется код.
-    > ![](/assets/screenshots/Screenshot_4.png)
+    > ![](/assets/screenshots/screenshot_4.png)
 
 4. Подключение внешнего JavaScript-файла
     - Создайте файл **script.js** и добавьте в него код:
